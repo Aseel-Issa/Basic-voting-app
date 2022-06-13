@@ -4,8 +4,8 @@ A basic web page that allows anonymous users to create new polls. and vote on ot
 #features
 1. Create new Poll with 2 required fields, and 2 optional.
 2. Pie chart to show the voting results.
-3. home page shall have two sections, the first one is the recent three polls only, and the other section has all polls.
-4. Soket.io is used to reflect any changes on polls (voting). although adding a new poll should be reflected into the recent 3 polls section as well as the all polls section.
+3. home page shall have two sections, the first one is the top three polls only, and the other section has all polls.
+4. Soket.io is used to reflect any changes on polls (voting) done by other users. although adding a new poll should be reflected into the all polls section, and once a poll be one of the 3 top polls, it should also be reflected on the top 3 polls section.
 
 #Videos
 1. create new poll and vote [https://drive.google.com/file/d/1obDlhk2VGiM8AYztNz6SRuxxpoktPeWq/view?usp=sharing]
